@@ -1,0 +1,47 @@
+:root {
+    --accent-color: #2196F3;
+    --main-color: #212121;
+    --background-color: #2F303A;
+    --section-color: #F5F4FA;
+    --logo-color: rgba(255, 255, 255, 0.60);
+    --for-text-color: #757575;
+}
+.visited {
+    color: var(--main-color);
+    text-decoration: none;
+}
+.active {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+.hover {
+    color: var(--main-color);
+    text-decoration: none;
+}
+.gmail {
+    color: var(--logo-color);
+}
+.tel {
+    color: var(--logo-color);
+}
+.work-sabmit {
+    color: var(--main-color);
+}
+.work-text {
+    color: var(--for-text-color);
+}
+.work {
+   list-style: none;
+}
+.text {
+    color: #F5F4FA;
+}
+.footer {
+    background-color: var(--background-color);
+}
+.header-logo {
+    color: var(--accent-color);
+}
+.header-logo2  {
+    color: black;
+}
